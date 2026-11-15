@@ -214,5 +214,5 @@ Layout:
 The original starter code is by Kaj Bostrom, Jifan Chen, and Greg Durrett
 (https://github.com/gregdurrett/fp-dataset-artifacts), which carries no
 explicit license; it is included here with attribution. Modifications and
-new code are by Paul K. Mandal. A license for the new code will be added
-by the author.
+new code are by Paul K. Mandal and released under the MIT License (see
+LICENSE).
