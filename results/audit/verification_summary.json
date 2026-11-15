@@ -1,0 +1,42 @@
+{
+  "canonical_eval_metric_rows": 657,
+  "canonical_panels": [
+    "run5_6_bert_base",
+    "run5_electra_base",
+    "run5_roberta_base",
+    "run6_albert_base",
+    "run6_deberta_v3_base",
+    "run6_distilbert",
+    "run7_electra_small"
+  ],
+  "canonical_raw_dynamics_files": 7,
+  "canonical_raw_dynamics_total_bytes": 583116400,
+  "canonical_raw_dynamics_total_lines": 1858854,
+  "canonical_train_metric_rows": 219,
+  "combined_summary": {
+    "n_bundles": 4,
+    "n_cartography_status_rows": 20,
+    "n_error_rows": 0,
+    "n_issue_rows": 0,
+    "n_train_metric_rows": 297
+  },
+  "git_lfs_pointer_file_paths": [],
+  "git_lfs_pointer_files_in_package": 0,
+  "notes": [
+    "Raw dynamics included under canonical_panels/*/runs/*/training_dynamics.jsonl.",
+    "Cartography scores match raw joint_confidence aggregation."
+  ],
+  "quarantined_panels": [
+    "run5_6_bert_base__round3e_bert_base__bab6b19d",
+    "run5_6_bert_base__run5_5_bert_base__a34498e6",
+    "run7_electra_small__round3e_electra_small__8493bdfe"
+  ],
+  "server_exit_statuses": {
+    "runpod_213_173_108_11_12313": "0",
+    "runpod_213_173_108_15_15530": "0",
+    "runpod_213_173_110_200_35141": "0",
+    "runpod_38_80_152_248_31932": "0"
+  },
+  "source_aggregate": "/mnt/data/cartography_auto_all_servers_20260525T015337Z.tar.gz",
+  "source_aggregate_sha256": "23dc77251b57b51579d9f8d2f90d8e94b3162f762452e03d20a2170564251a74"
+}
